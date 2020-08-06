@@ -1,4 +1,4 @@
-[![Header](https://github.com/adrianlopezgue/adrianlopezgue/raw/master/name.gif)](https://www.linkedin.com/in/adrianlopezgue/)
+[![Header](https://raw.githubusercontent.com/adrianlopezgue/adrianlopezgue/master/assets/name.gif)](https://www.linkedin.com/in/adrianlopezgue/)
 
 ##### Hi, I'm Adrián:
 
