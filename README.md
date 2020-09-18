@@ -3,7 +3,7 @@
 ##### Hi, I'm Adrián:
 
 - 🎓 Recent computer science graduate from Universidad of Córdoba (UCO) - Spain
-- 👨‍💻 I am interested in the Web Development field and am seeking exciting opportunities related to the same.
+- 👨‍💻 I am interested in the Software Development and Design Patterns.
 - 💙 I am passionate about learning new technologies and joining new side projects with colleagues.
 - ✈️ I love travelling, knowing new cultures and try new things in life!
 - 📫 You can reach me with the links below
@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdrianLopezGue)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.lopez.gue@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianlopezgue/)
-[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/adrianlopezgue/)
+[![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/adrianlopezgue/)
 
 ##### Technologies I use
 
