@@ -3,7 +3,7 @@
 ##### Hi, I'm Adrián:
 
 - 👨‍💻 Junior Programmer at Genially
-- 🤓 I am interested in the Software Development and Design Patterns.
+- 🤓 I am interested in Software Development and Design Patterns.
 - 💙 I am passionate about learning new technologies and joining new side projects with colleagues.
 - ✈️ I love travelling, knowing new cultures and try new things in life!
 - 📫 You can reach me with the links below
