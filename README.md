@@ -3,9 +3,9 @@
 ##### Hi, I'm Adrián:
 
 - 👨‍💻 Junior Programmer at Genially
-- 🤓 I am interested in Software Development and Design Patterns.
+- 🤓 I am interested in Software Development.
 - 💙 I am passionate about learning new technologies and joining new side projects with colleagues.
-- ✈️ I love travelling, knowing new cultures and try new things in life!
+- ✈️ I love travelling, knowing new cultures and trying new things in life!
 - 📫 You can reach me with the links below
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdrianLopezGue)
@@ -19,9 +19,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
 
