@@ -1,36 +1,21 @@
-[![Header](https://raw.githubusercontent.com/adrianlopezgue/adrianlopezgue/master/assets/name.gif)](https://www.linkedin.com/in/adrianlopezgue/)
+<h2> Hi, I'm Adrián! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=ecf05e47w30g0l1947h0zkwzrzjiiwujeik2srf1oydy5e23&rid=giphy.gif&ct=s" width="250">
+<p><em>Junior Backend Developer at <a href="https://genial.ly/">Genially</a></em></p>
 
-##### Hi, I'm Adrián:
+A little more about me...<img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif?cid=ecf05e475ukrs3ws5u79jt9pj1ltk59fwtc5y91wniqbzb06&rid=giphy.gif&ct=s" width="50"> 
 
-- 👨‍💻 Junior Programmer at Genially
-- 🤓 I am interested in Software Development.
-- 💙 I am passionate about learning new technologies and joining new side projects with colleagues.
-- ✈️ I love travelling, knowing new cultures and trying new things in life!
-- 📫 You can reach me with the links below
+```javascript
+const adrian = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, Flutter],
+  tools: [Node, Jest, Docker],
+  architecture: ["clean-architecture", "event-driven", "functional-programming"],
+  currently: "Learn Elixir and create pet projects with it"
+}
+```
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AdrianLopezGue)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.lopez.gue@gmail.com)
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianlopezgue/)
 [![Twitter](https://img.shields.io/badge/-TWITTER-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/adrianlopezgue/)
-
-##### Technologies I use
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-
-##### Some of the technologies I have worked with
-
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-222222?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=adrianlopezgue&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-⭐️ From [AdrianLopezGue](https://github.com/AdrianLopezGue)
