@@ -10,7 +10,7 @@ const adrian = {
   code: [Javascript, Typescript, Flutter],
   tools: [Node, Jest, Docker],
   architecture: ["clean-architecture", "event-driven", "functional-programming"],
-  currently: "Learn Elixir and create pet projects with it"
+  currently: "Learning Elixir and create pet projects with it"
 }
 ```
 
