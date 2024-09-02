@@ -1,6 +1,6 @@
 <h2> Hi, I'm Adrián! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif?cid=ecf05e47w30g0l1947h0zkwzrzjiiwujeik2srf1oydy5e23&rid=giphy.gif&ct=s" width="250">
-<p><em>⭐ Backend Developer at <a href="https://genial.ly/">Genially</a></em></p>
+<p><em>⭐ Backend Developer at <a href="https://www.qualifyze.com/">Qualifyze</a></em></p>
 
 A little more about me...<img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif?cid=ecf05e475ukrs3ws5u79jt9pj1ltk59fwtc5y91wniqbzb06&rid=giphy.gif&ct=s" width="50"> 
 
